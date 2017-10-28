@@ -1,0 +1,544 @@
+Sequence found : [(40879, 16283)]		Length = 2
+
+Sequence found : [(40879, 28392)]		Length = 2
+
+Sequence found : [(17215,)]		Length = 1
+
+Sequence found : [(25038,)]		Length = 1
+
+Sequence found : [(30124,)]		Length = 1
+
+Sequence found : [(8293,)]		Length = 1
+
+Sequence found : [(1957,)]		Length = 1
+
+Sequence found : [(40879, 32128)]		Length = 2
+
+Sequence found : [(34964,)]		Length = 1
+
+Sequence found : [(22857,)]		Length = 1
+
+Sequence found : [(40879, 1932)]		Length = 2
+
+Sequence found : [(34670,)]		Length = 1
+
+Sequence found : [(40879, 13311)]		Length = 2
+
+Sequence found : [(14910,)]		Length = 1
+
+Sequence found : [(40879, 7718)]		Length = 2
+
+Sequence found : [(4410,)]		Length = 1
+
+Sequence found : [(7169,)]		Length = 1
+
+Sequence found : [(31611,)]		Length = 1
+
+Sequence found : [(26319,)]		Length = 1
+
+Sequence found : [(12553,)]		Length = 1
+
+Sequence found : [(30248,)]		Length = 1
+
+Sequence found : [(31958,)]		Length = 1
+
+Sequence found : [(2999,)]		Length = 1
+
+Sequence found : [(26840,)]		Length = 1
+
+Sequence found : [(40879, 15269)]		Length = 2
+
+Sequence found : [(10045,)]		Length = 1
+
+Sequence found : [(7462,)]		Length = 1
+
+Sequence found : [(280,)]		Length = 1
+
+Sequence found : [(25689,)]		Length = 1
+
+Sequence found : [(21611,)]		Length = 1
+
+Sequence found : [(17289,)]		Length = 1
+
+Sequence found : [(1154,)]		Length = 1
+
+Sequence found : [(28841,)]		Length = 1
+
+Sequence found : [(2884,)]		Length = 1
+
+Sequence found : [(33867,)]		Length = 1
+
+Sequence found : [(8636, 35778)]		Length = 2
+
+Sequence found : [(26363,)]		Length = 1
+
+Sequence found : [(13847,)]		Length = 1
+
+Sequence found : [(12969,)]		Length = 1
+
+Sequence found : [(40879, 25155)]		Length = 2
+
+Sequence found : [(37559,)]		Length = 1
+
+Sequence found : [(40879, 36899)]		Length = 2
+
+Sequence found : [(29712,)]		Length = 1
+
+Sequence found : [(39962,)]		Length = 1
+
+Sequence found : [(27439,)]		Length = 1
+
+Sequence found : [(3357,)]		Length = 1
+
+Sequence found : [(8636, 26363)]		Length = 2
+
+Sequence found : [(5179,)]		Length = 1
+
+Sequence found : [(2181,)]		Length = 1
+
+Sequence found : [(19114,)]		Length = 1
+
+Sequence found : [(35778,)]		Length = 1
+
+Sequence found : [(29730,)]		Length = 1
+
+Sequence found : [(2558,)]		Length = 1
+
+Sequence found : [(40879, 7371)]		Length = 2
+
+Sequence found : [(34064,)]		Length = 1
+
+Sequence found : [(29866,)]		Length = 1
+
+Sequence found : [(25155,)]		Length = 1
+
+Sequence found : [(32330,)]		Length = 1
+
+Sequence found : [(30561,)]		Length = 1
+
+Sequence found : [(40879,)]		Length = 1
+
+Sequence found : [(34693,)]		Length = 1
+
+Sequence found : [(23506,)]		Length = 1
+
+Sequence found : [(40879, 13382)]		Length = 2
+
+Sequence found : [(12173,)]		Length = 1
+
+Sequence found : [(16283,)]		Length = 1
+
+Sequence found : [(40879, 6230)]		Length = 2
+
+Sequence found : [(14224,)]		Length = 1
+
+Sequence found : [(18110,)]		Length = 1
+
+Sequence found : [(21810,)]		Length = 1
+
+Sequence found : [(25791,)]		Length = 1
+
+Sequence found : [(36586,)]		Length = 1
+
+Sequence found : [(32296,)]		Length = 1
+
+Sequence found : [(13757,)]		Length = 1
+
+Sequence found : [(1955,)]		Length = 1
+
+Sequence found : [(9452,)]		Length = 1
+
+Sequence found : [(13311,)]		Length = 1
+
+Sequence found : [(11573,)]		Length = 1
+
+Sequence found : [(18920,)]		Length = 1
+
+Sequence found : [(40879, 280)]		Length = 2
+
+Sequence found : [(2010,)]		Length = 1
+
+Sequence found : [(32140,)]		Length = 1
+
+Sequence found : [(7371,)]		Length = 1
+
+Sequence found : [(23519,)]		Length = 1
+
+Sequence found : [(30182,)]		Length = 1
+
+Sequence found : [(9985,)]		Length = 1
+
+Sequence found : [(9834,)]		Length = 1
+
+Sequence found : [(2962,)]		Length = 1
+
+Sequence found : [(35663,)]		Length = 1
+
+Sequence found : [(9347,)]		Length = 1
+
+Sequence found : [(26600,)]		Length = 1
+
+Sequence found : [(40852,)]		Length = 1
+
+Sequence found : [(42650,)]		Length = 1
+
+Sequence found : [(28240,)]		Length = 1
+
+Sequence found : [(40879, 2477)]		Length = 2
+
+Sequence found : [(23344,)]		Length = 1
+
+Sequence found : [(40879, 2558)]		Length = 2
+
+Sequence found : [(30074,)]		Length = 1
+
+Sequence found : [(40879, 34053)]		Length = 2
+
+Sequence found : [(40879, 25559)]		Length = 2
+
+Sequence found : [(2913,)]		Length = 1
+
+Sequence found : [(390,)]		Length = 1
+
+Sequence found : [(18711,)]		Length = 1
+
+Sequence found : [(3384,)]		Length = 1
+
+Sequence found : [(34381,)]		Length = 1
+
+Sequence found : [(7822,)]		Length = 1
+
+Sequence found : [(479,)]		Length = 1
+
+Sequence found : [(9064,)]		Length = 1
+
+Sequence found : [(18400,)]		Length = 1
+
+Sequence found : [(34053,)]		Length = 1
+
+Sequence found : [(36953,)]		Length = 1
+
+Sequence found : [(14622,)]		Length = 1
+
+Sequence found : [(10575,)]		Length = 1
+
+Sequence found : [(38768,)]		Length = 1
+
+Sequence found : [(31574,)]		Length = 1
+
+Sequence found : [(7718,)]		Length = 1
+
+Sequence found : [(22432,)]		Length = 1
+
+Sequence found : [(24151,)]		Length = 1
+
+Sequence found : [(12810,)]		Length = 1
+
+Sequence found : [(16280,)]		Length = 1
+
+Sequence found : [(12489,)]		Length = 1
+
+Sequence found : [(5043,)]		Length = 1
+
+Sequence found : [(9491,)]		Length = 1
+
+Sequence found : [(40879, 6965)]		Length = 2
+
+Sequence found : [(7871,)]		Length = 1
+
+Sequence found : [(187,)]		Length = 1
+
+Sequence found : [(22952,)]		Length = 1
+
+Sequence found : [(38710,)]		Length = 1
+
+Sequence found : [(35625,)]		Length = 1
+
+Sequence found : [(37091,)]		Length = 1
+
+Sequence found : [(32128,)]		Length = 1
+
+Sequence found : [(27295, 7871)]		Length = 2
+
+Sequence found : [(36150,)]		Length = 1
+
+Sequence found : [(11625,)]		Length = 1
+
+Sequence found : [(36899,)]		Length = 1
+
+Sequence found : [(40879, 32296)]		Length = 2
+
+Sequence found : [(40879, 37561)]		Length = 2
+
+Sequence found : [(40515,)]		Length = 1
+
+Sequence found : [(29529,)]		Length = 1
+
+Sequence found : [(2030,)]		Length = 1
+
+Sequence found : [(40879, 42712)]		Length = 2
+
+Sequence found : [(35776,)]		Length = 1
+
+Sequence found : [(18259,)]		Length = 1
+
+Sequence found : [(17938,)]		Length = 1
+
+Sequence found : [(40879, 7822)]		Length = 2
+
+Sequence found : [(29807,)]		Length = 1
+
+Sequence found : [(36295,)]		Length = 1
+
+Sequence found : [(9202,)]		Length = 1
+
+Sequence found : [(6230,)]		Length = 1
+
+Sequence found : [(5633,)]		Length = 1
+
+Sequence found : [(40879, 6350)]		Length = 2
+
+Sequence found : [(38085,)]		Length = 1
+
+Sequence found : [(15269,)]		Length = 1
+
+Sequence found : [(8636, 7718)]		Length = 2
+
+Sequence found : [(8636,)]		Length = 1
+
+Sequence found : [(7367,)]		Length = 1
+
+Sequence found : [(1251,)]		Length = 1
+
+Sequence found : [(1527,)]		Length = 1
+
+Sequence found : [(27596,)]		Length = 1
+
+Sequence found : [(24487,)]		Length = 1
+
+Sequence found : [(30462,)]		Length = 1
+
+Sequence found : [(37418, 2488)]		Length = 2
+
+Sequence found : [(40879, 18231)]		Length = 2
+
+Sequence found : [(40879, 31806)]		Length = 2
+
+Sequence found : [(23637,)]		Length = 1
+
+Sequence found : [(26738,)]		Length = 1
+
+Sequence found : [(42490,)]		Length = 1
+
+Sequence found : [(22235,)]		Length = 1
+
+Sequence found : [(40879, 34149)]		Length = 2
+
+Sequence found : [(8636, 7371)]		Length = 2
+
+Sequence found : [(34360,)]		Length = 1
+
+Sequence found : [(2501,)]		Length = 1
+
+Sequence found : [(21203,)]		Length = 1
+
+Sequence found : [(8636, 9985)]		Length = 2
+
+Sequence found : [(38577,)]		Length = 1
+
+Sequence found : [(40879, 9452)]		Length = 2
+
+Sequence found : [(37418,)]		Length = 1
+
+Sequence found : [(12826,)]		Length = 1
+
+Sequence found : [(25725,)]		Length = 1
+
+Sequence found : [(6350,)]		Length = 1
+
+Sequence found : [(40879, 29712)]		Length = 2
+
+Sequence found : [(34835,)]		Length = 1
+
+Sequence found : [(26794,)]		Length = 1
+
+Sequence found : [(40879, 35771)]		Length = 2
+
+Sequence found : [(40879, 7159)]		Length = 2
+
+Sequence found : [(7384,)]		Length = 1
+
+Sequence found : [(36215,)]		Length = 1
+
+Sequence found : [(22998,)]		Length = 1
+
+Sequence found : [(40879, 9985)]		Length = 2
+
+Sequence found : [(12219,)]		Length = 1
+
+Sequence found : [(27445,)]		Length = 1
+
+Sequence found : [(40879, 25689)]		Length = 2
+
+Sequence found : [(24467,)]		Length = 1
+
+Sequence found : [(40879, 2488)]		Length = 2
+
+Sequence found : [(40879, 34064)]		Length = 2
+
+Sequence found : [(13382,)]		Length = 1
+
+Sequence found : [(18175,)]		Length = 1
+
+Sequence found : [(42712,)]		Length = 1
+
+Sequence found : [(7159,)]		Length = 1
+
+Sequence found : [(39930,)]		Length = 1
+
+Sequence found : [(12464,)]		Length = 1
+
+Sequence found : [(7534,)]		Length = 1
+
+Sequence found : [(14248,)]		Length = 1
+
+Sequence found : [(28392,)]		Length = 1
+
+Sequence found : [(36201,)]		Length = 1
+
+Sequence found : [(34149,)]		Length = 1
+
+Sequence found : [(25823,)]		Length = 1
+
+Sequence found : [(8636, 28392)]		Length = 2
+
+Sequence found : [(2477,)]		Length = 1
+
+Sequence found : [(32232,)]		Length = 1
+
+Sequence found : [(21409,)]		Length = 1
+
+Sequence found : [(42484,)]		Length = 1
+
+Sequence found : [(23800,)]		Length = 1
+
+Sequence found : [(30290,)]		Length = 1
+
+Sequence found : [(32330, 7871)]		Length = 2
+
+Sequence found : [(41094,)]		Length = 1
+
+Sequence found : [(25559,)]		Length = 1
+
+Sequence found : [(7184,)]		Length = 1
+
+Sequence found : [(28369,)]		Length = 1
+
+Sequence found : [(25596,)]		Length = 1
+
+Sequence found : [(28816,)]		Length = 1
+
+Sequence found : [(9694,)]		Length = 1
+
+Sequence found : [(8636, 2477)]		Length = 2
+
+Sequence found : [(7045,)]		Length = 1
+
+Sequence found : [(6965,)]		Length = 1
+
+Sequence found : [(37486,)]		Length = 1
+
+Sequence found : [(22784,)]		Length = 1
+
+Sequence found : [(7779,)]		Length = 1
+
+Sequence found : [(31806,)]		Length = 1
+
+Sequence found : [(27295,)]		Length = 1
+
+Sequence found : [(7492,)]		Length = 1
+
+Sequence found : [(40879, 32303)]		Length = 2
+
+Sequence found : [(29781,)]		Length = 1
+
+Sequence found : [(32303,)]		Length = 1
+
+Sequence found : [(11043,)]		Length = 1
+
+Sequence found : [(22894,)]		Length = 1
+
+Sequence found : [(34698,)]		Length = 1
+
+Sequence found : [(8636, 7871)]		Length = 2
+
+Sequence found : [(40879, 35778)]		Length = 2
+
+Sequence found : [(18282,)]		Length = 1
+
+Sequence found : [(31763,)]		Length = 1
+
+Sequence found : [(12616,)]		Length = 1
+
+Sequence found : [(37418, 7871)]		Length = 2
+
+Sequence found : [(18517,)]		Length = 1
+
+Sequence found : [(40879, 7871)]		Length = 2
+
+Sequence found : [(1317, 7871)]		Length = 2
+
+Sequence found : [(13466,)]		Length = 1
+
+Sequence found : [(16710,)]		Length = 1
+
+Sequence found : [(37842,)]		Length = 1
+
+Sequence found : [(32194,)]		Length = 1
+
+Sequence found : [(40879, 26363)]		Length = 2
+
+Sequence found : [(35771,)]		Length = 1
+
+Sequence found : [(38142,)]		Length = 1
+
+Sequence found : [(34911,)]		Length = 1
+
+Sequence found : [(9375,)]		Length = 1
+
+Sequence found : [(43127,)]		Length = 1
+
+Sequence found : [(36235,)]		Length = 1
+
+Sequence found : [(1932,)]		Length = 1
+
+Sequence found : [(2488,)]		Length = 1
+
+Sequence found : [(40879, 37486)]		Length = 2
+
+Sequence found : [(24763,)]		Length = 1
+
+Sequence found : [(40879, 14224)]		Length = 2
+
+Sequence found : [(40879, 34911)]		Length = 2
+
+Sequence found : [(37418, 9985)]		Length = 2
+
+Sequence found : [(34337,)]		Length = 1
+
+Sequence found : [(6910,)]		Length = 1
+
+Sequence found : [(1317,)]		Length = 1
+
+Sequence found : [(13931,)]		Length = 1
+
+Sequence found : [(40879, 21409)]		Length = 2
+
+Sequence found : [(18231,)]		Length = 1
+
+Sequence found : [(37561,)]		Length = 1
+
+Sequence found : [(12627,)]		Length = 1
+
+Sequence found : [(40879, 7492)]		Length = 2
+
